@@ -1,5 +1,5 @@
 # Ecosystem
-  ### A Unity engine buly ecosystem simulating reinforcement machine learning capabilites through rabbit, bush, and grassland assets
+  ### A Unity engine built ecosystem simulating reinforcement machine learning capabilites through rabbit, bush, and grassland assets
   
   ### All Unity assets are custom made for this project in blender and can be found in Ecosystem\Assets\Ecosystem
   
